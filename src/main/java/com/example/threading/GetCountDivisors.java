@@ -1,4 +1,4 @@
-package com.example.threading;
+package com.examples.threading;
 
 public class GetCountDivisors extends Thread {
     CountAndSort countAndSort;
