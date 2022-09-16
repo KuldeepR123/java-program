@@ -1,4 +1,4 @@
-package com.example.threading;
+package com.examples.threading;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
