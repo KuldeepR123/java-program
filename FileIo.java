@@ -75,10 +75,6 @@ public class FileIo {
             }
         });
 
-        /*Collections.sort(list, (obj1, obj2) -> {
-            return -map.get(obj1).compareTo(map.get(obj2));
-        });*/
-
         HashMap sortedHashMap = new LinkedHashMap();
         for (Iterator it = list.iterator(); it.hasNext(); ) {
             Map.Entry entry = (Map.Entry) it.next();
